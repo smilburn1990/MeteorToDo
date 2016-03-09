@@ -21,6 +21,11 @@ Sean Milburn
 
 Meteor tutorial - https://www.meteor.com/tutorials/blaze/creating-an-app
 
+#Credentials
+
+-username: user<br>
+-password: password
+
 #Browser compatibility
 
 Chrome <br>
