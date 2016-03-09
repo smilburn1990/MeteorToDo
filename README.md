@@ -9,8 +9,8 @@ http://milburntodo.meteor.com/
 #Instructions
 
 -clone repository <br>
--$cd MeteorToDo
--$meteor
+-$cd MeteorToDo<br>
+-$meteor<br>
 -$go to localhost:3000
 
 #Contributers
@@ -20,3 +20,10 @@ Sean Milburn
 #External reference
 
 Meteor tutorial - https://www.meteor.com/tutorials/blaze/creating-an-app
+
+#Browser compatibility
+
+Chrome <br>
+Edge <br>
+Safari <br>
+Firefox <br>
