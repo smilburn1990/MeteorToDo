@@ -1,4 +1,4 @@
-# MeteorToDo
+# Meteor to do list
 
 Meteor to do list from website tutorial
 
